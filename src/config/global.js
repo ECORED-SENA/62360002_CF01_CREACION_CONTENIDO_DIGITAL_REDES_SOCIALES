@@ -1,17 +1,26 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Identidad visual y marca en redes',
+    Description:
+      'Este componente formativo desarrolla los fundamentos de la identidad visual de una marca y su aplicación en entornos digitales. Aborda los elementos gráficos que la conforman, la definición del público objetivo, la estructuración del portafolio de productos o servicios y resalta la importancia de mantener una coherencia visual para lograr una comunicación efectiva en redes sociales.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.png'),
       },
     ],
   },
@@ -31,13 +40,48 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Concepto de marca',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Importancia de la marca en el entorno digital',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Funciones de la marca',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'La marca en el <em>marketing</em> digital',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Elementos que componen una marca',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Ejemplos de marcas y su identidad',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Funcionamiento de la marca en la estrategia digital',
+            hash: 't_1_6',
+          },
+          {
+            numero: '1.7',
+            titulo: 'Criterios para evaluar la construcción de una marca',
+            hash: 't_1_7',
+          },
+          {
+            numero: '1.8',
+            titulo: 'Aplicación práctica: análisis de una marca digital',
+            hash: 't_1_8',
           },
         ],
       },
@@ -45,14 +89,138 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Identidad visual de la marca',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo:
+              'Aplicación práctica: construcción básica de la identidad visual',
+            hash: 't_2_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Elementos gráficos de la marca	',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Logotipo',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Tipografía',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Diseños',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Colores corporativos',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Elementos visuales complementarios',
+            hash: 't_3_5',
+          },
+          {
+            numero: '3.6',
+            titulo: 'Manual de identidad visual',
+            hash: 't_3_6',
+          },
+          {
+            numero: '3.7',
+            titulo: 'Importancia de la coherencia en los elementos gráficos',
+            hash: 't_3_7',
+          },
+          {
+            numero: '3.8',
+            titulo: 'Criterios para el uso adecuado de los elementos gráficos',
+            hash: 't_3_8',
+          },
+          {
+            numero: '3.9',
+            titulo: 'Aplicación práctica',
+            hash: 't_3_9',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Público objetivo	',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Aplicación práctica',
+            hash: 't_4_1',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Portafolio de productos o servicios',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Criterios para organizar un portafolio',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Aplicación práctica: análisis de un portafolio',
+            hash: 't_5_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Canales digitales para la comunicación de marca',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Criterios para seleccionar canales digitales',
+            hash: 't_6_1',
+          },
+          {
+            numero: '6.2',
+            titulo: 'Aplicación práctica: selección de canales digitales',
+            hash: 't_6_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'Importancia de la identidad visual en redes sociales',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '7.1',
+            titulo:
+              'Criterios para mantener coherencia visual en redes sociales',
+            hash: 't_7_1',
+          },
+          {
+            numero: '7.2',
+            titulo:
+              'Aplicación práctica: análisis de identidad visual en redes sociales',
+            hash: 't_7_2',
+          },
+        ],
       },
     ],
     subMenu: [

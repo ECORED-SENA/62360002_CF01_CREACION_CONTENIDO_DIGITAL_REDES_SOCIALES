@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="107.999" height="108" viewBox="0 0 107.999 108">
+  <defs>
+    <filter id="Rectangle_411831" x="0" y="0" width="107.999" height="108" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_425301" data-name="Rectangle 425301" width="54" height="62" transform="translate(-6744 -6575)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1205362" data-name="Group 1205362" transform="translate(6770.96 6595.266)">
+    <g id="Group_1205301" data-name="Group 1205301" transform="translate(-7562.742 -8551.266)">
+      <g id="Group_1203409" data-name="Group 1203409" transform="translate(800.781 1962)">
+        <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Rectangle_411831)">
+          <g id="Rectangle_411831-2" data-name="Rectangle 411831" transform="translate(9 6)" fill="#8fe8d5" stroke="#fff" stroke-width="2">
+            <path d="M5,0H58A32,32,0,0,1,90,32V85a5,5,0,0,1-5,5H32A32,32,0,0,1,0,58V5A5,5,0,0,1,5,0Z" stroke="none"/>
+            <path d="M5,1H58A31,31,0,0,1,89,32V85a4,4,0,0,1-4,4H32A31,31,0,0,1,1,58V5A4,4,0,0,1,5,1Z" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <path id="Path_1260076" data-name="Path 1260076" d="M15.052.687H.856V6.415H10.991L.856,16.481l4.1,4.068,10.1-10.031V20.549h5.8V.687Z" transform="translate(799.924 2031.451)" fill="#1f1321" fill-rule="evenodd"/>
+      <path id="Path_1260092" data-name="Path 1260092" d="M5.27,15.8h10.8V11.438H8.359l7.709-7.657L12.953.687,5.27,8.318V.687H.856V15.8Z" transform="translate(874.712 1961.314)" fill="#1f1321" fill-rule="evenodd"/>
+    </g>
+    <g id="Mask_Group_1107894" data-name="Mask Group 1107894" clip-path="url(#clip-path)">
+      <g id="pantalla-de-la-computadora" transform="translate(-6744 -6571)">
+        <path id="Path_1270559" data-name="Path 1270559" d="M36.909,54H16.88L20.253,40.5H33.747Z" fill="#999"/>
+        <path id="Path_1270560" data-name="Path 1270560" d="M53.987,5.083V38.711a5.06,5.06,0,0,1-5.06,5.06H5.073a5.06,5.06,0,0,1-5.06-5.06c0-36.495-.1-34.149.266-35.249a4.871,4.871,0,0,1,1.484-2.2A4.882,4.882,0,0,1,3.219.374C4.475-.123,1.792.023,48.927.023a5.058,5.058,0,0,1,5.06,5.06Z" fill="#74f7f9"/>
+        <path id="Path_1270561" data-name="Path 1270561" d="M53.987,5.083V30.7H34.063A30.663,30.663,0,0,1,3.387.023c48.492,0,46.022-.117,47.161.266a5.057,5.057,0,0,1,3.439,4.794Z" fill="#d1f5ee"/>
+        <path id="Path_1270562" data-name="Path 1270562" d="M38.807,8.457V28.7a1.687,1.687,0,0,1-1.964,1.663L16.6,26.987a1.686,1.686,0,0,1-1.409-1.663V11.83A1.686,1.686,0,0,1,16.6,10.167l20.24-3.373a1.687,1.687,0,0,1,1.964,1.663Z" fill="#6994ff"/>
+        <path id="Path_1270563" data-name="Path 1270563" d="M.013,33.757H53.987v5.06a5.06,5.06,0,0,1-5.06,5.06H5.073a5.06,5.06,0,0,1-5.06-5.06v-5.06Z" fill="#b2b2b2"/>
+        <path id="Path_1270564" data-name="Path 1270564" d="M48.927.023C2.014.023,4.835-.014,4.177.1a5.079,5.079,0,0,0-3.9,3.36C-.09,4.561.013,2.2.013,38.817a5.085,5.085,0,0,0,3.439,4.794c1.116.375.858.266,14.81.266l-1.124,6.747H13.507a1.687,1.687,0,0,0,0,3.373H40.493a1.687,1.687,0,1,0,0-3.373H36.862l-1.124-6.747H48.927a5.065,5.065,0,0,0,4.794-3.439c.369-1.1.266,1.266.266-35.355a5.062,5.062,0,0,0-5.06-5.06Zm-28.369,50.6,1.124-6.747H32.318l1.124,6.747ZM50.613,38.817A1.689,1.689,0,0,1,48.927,40.5H5.073a1.689,1.689,0,0,1-1.687-1.687V37.13H50.613Zm0-5.06H3.387V5.083A1.69,1.69,0,0,1,5.073,3.4H48.927a1.689,1.689,0,0,1,1.687,1.687Z"/>
+        <path id="Path_1270565" data-name="Path 1270565" d="M36.843,6.793,16.6,10.167a1.686,1.686,0,0,0-1.409,1.663V25.323A1.686,1.686,0,0,0,16.6,26.987l20.24,3.373A1.687,1.687,0,0,0,38.807,28.7V8.457a1.687,1.687,0,0,0-1.964-1.663ZM25.313,25.019,18.567,23.9V20.263h6.747Zm0-8.129H18.567V13.258l6.747-1.124Zm10.12,9.815-6.747-1.124V20.263h6.747Zm0-9.815H28.687V11.572l6.747-1.124Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

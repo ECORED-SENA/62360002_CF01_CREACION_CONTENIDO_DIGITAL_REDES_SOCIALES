@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="107.999" height="107.999" viewBox="0 0 107.999 107.999">
+  <defs>
+    <filter id="Rectangle_411831" x="0" y="0" width="107.999" height="107.999" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_425353" data-name="Rectangle 425353" width="51" height="54" transform="translate(-1598 -9837)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1205623" data-name="Group 1205623" transform="translate(1626.416 9861.287)">
+    <g id="Group_1205618" data-name="Group 1205618" transform="translate(5109.854 822.713)">
+      <g id="Group_1203888" data-name="Group 1203888" transform="translate(-6727.271 -10678)">
+        <g id="Group_1203409" data-name="Group 1203409" transform="translate(0.001)">
+          <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Rectangle_411831)">
+            <g id="Rectangle_411831-2" data-name="Rectangle 411831" transform="translate(9 6)" fill="#d9aef1" stroke="#fff" stroke-width="2">
+              <path d="M5,0H58A32,32,0,0,1,90,32V85a5,5,0,0,1-5,5H32A32,32,0,0,1,0,58V5A5,5,0,0,1,5,0Z" stroke="none"/>
+              <path d="M5,1H58A31,31,0,0,1,89,32V85a4,4,0,0,1-4,4H32A31,31,0,0,1,1,58V5A4,4,0,0,1,5,1Z" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <path id="Path_1260076" data-name="Path 1260076" d="M16.614.687H.856V7.046h11.25L.856,18.219,5.4,22.735,16.614,11.6V22.735h6.441V.687Z" transform="translate(-0.856 67.265)" fill="#1f1321" fill-rule="evenodd"/>
+        <path id="Path_1260092" data-name="Path 1260092" d="M5.755,17.459H17.742V12.622H9.184l8.558-8.5L14.284.687,5.755,9.157V.687H.856V17.459Z" transform="translate(72.258 -0.686)" fill="#1f1321" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="Mask_Group_1107924" data-name="Mask Group 1107924" clip-path="url(#clip-path)">
+      <g id="alerta" transform="translate(-1598 -9835.5)">
+        <g id="Icons">
+          <circle id="Ellipse_12490" data-name="Ellipse 12490" cx="24.65" cy="24.65" r="24.65" transform="translate(0.85 0.85)" fill="#f44335"/>
+          <path id="Path_1271957" data-name="Path 1271957" d="M25.5.85q-.642,0-1.275.032a24.65,24.65,0,0,1,0,49.235q.634.032,1.275.032a24.65,24.65,0,1,0,0-49.3Z" fill="#c81e1e"/>
+          <circle id="Ellipse_12491" data-name="Ellipse 12491" cx="19.55" cy="19.55" r="19.55" transform="translate(5.95 5.95)" fill="#f5f5f5"/>
+          <path id="Path_1271958" data-name="Path 1271958" d="M25.5,5.95c-.425,0-.85.019-1.275.046a19.546,19.546,0,0,1,0,39.008c.425.027.85.046,1.275.046a19.55,19.55,0,1,0,0-39.1Z" fill="#cfd8dc"/>
+          <g id="Group_1205637" data-name="Group 1205637">
+            <circle id="Ellipse_12492" data-name="Ellipse 12492" cx="3.4" cy="3.4" r="3.4" transform="translate(22.1 33.15)" fill="#ffdf00"/>
+            <path id="Path_1271959" data-name="Path 1271959" d="M28.9,14.45c0,1.878-1.522,15.3-3.4,15.3s-3.4-13.422-3.4-15.3a3.4,3.4,0,1,1,6.8,0Z" fill="#ffdf00"/>
+          </g>
+        </g>
+        <g id="Icons_copy" data-name="Icons copy">
+          <path id="Path_1271960" data-name="Path 1271960" d="M25.5,0A25.5,25.5,0,1,0,51,25.5,25.5,25.5,0,0,0,25.5,0Zm0,49.3A23.8,23.8,0,1,1,49.3,25.5,23.8,23.8,0,0,1,25.5,49.3Z"/>
+          <path id="Path_1271961" data-name="Path 1271961" d="M25.5,5.1A20.4,20.4,0,1,0,45.9,25.5,20.4,20.4,0,0,0,25.5,5.1Zm0,39.1A18.7,18.7,0,1,1,44.2,25.5,18.7,18.7,0,0,1,25.5,44.2Z"/>
+          <path id="Path_1271962" data-name="Path 1271962" d="M25.5,32.3a4.25,4.25,0,1,0,4.25,4.25A4.25,4.25,0,0,0,25.5,32.3Zm0,6.8a2.55,2.55,0,1,1,2.55-2.55A2.55,2.55,0,0,1,25.5,39.1Z"/>
+          <path id="Path_1271963" data-name="Path 1271963" d="M25.5,10.2a4.255,4.255,0,0,0-4.25,4.25,75.374,75.374,0,0,0,1.008,8.5c1.21,7.055,2.307,7.65,3.242,7.65s2.032-.595,3.242-7.65a75.373,75.373,0,0,0,1.008-8.5A4.255,4.255,0,0,0,25.5,10.2Zm0,18.5c-1.2-1.941-2.55-11.985-2.55-14.253a2.55,2.55,0,1,1,5.1,0C28.05,16.722,26.7,26.762,25.5,28.7Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
