@@ -278,14 +278,84 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Colores corporativos',
+      significado:
+        'Los colores corporativos, también conocidos como colores de marca o colores institucionales, son los colores que utiliza comúnmente una empresa; por ejemplo, en su logotipo, tipografía, productos, envases, páginas web, materiales o medios publicitarios, e infraestructura.',
+    },
+    {
+      termino: 'Contenido digital',
+      significado:
+        'El contenido digital abarca todo lo que se crea y comparte en línea para conectar con una audiencia. Incluye publicaciones de blog, videos, actualizaciones en redes sociales y podcasts, consumidos en dispositivos digitales. Es la base del marketing digital, ya que permite a las empresas llegar e interactuar con sus clientes.',
+    },
+    {
+      termino: 'Imagotipo',
+      significado:
+        'Es un tipo de logo que combina texto y símbolo de forma diferenciada. Ambos elementos pueden funcionar por separado sin perder reconocimiento, lo que brinda flexibilidad en su uso.',
+    },
+    {
+      termino: 'Isologo',
+      significado:
+        'Es una representación gráfica en la que texto y símbolo están completamente integrados en un único elemento indivisible. No pueden separarse, ya que ambos son esenciales para transmitir la identidad de la marca.',
+    },
+    {
+      termino: 'Isotipo',
+      significado:
+        'Es la parte simbólica o icónica de una marca que no incluye texto. Se reconoce por sí sola y debe transmitir la identidad de la marca sin necesidad de palabras.',
+    },
+    {
+      termino: 'Logotipo',
+      significado:
+        'Se refiere exclusivamente a una representación gráfica basada en palabras. Consiste únicamente en tipografía, sin incluir símbolos ni iconos.',
+    },
+    {
+      termino: 'Marca',
+      significado:
+        'Es la combinación de atributos tangibles e intangibles que generan una percepción sobre un producto, servicio u organización. Es uno de los activos más importantes de una empresa a lo largo del tiempo.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Cordova, R. (2021, junio 2). Las 8 funciones de una marca. Merca2.0.',
+      link: 'https://www.merca20.com/las-8-funciones-de-una-marca/',
+    },
+    {
+      referencia:
+        'CN, R. (2023, abril 6). Colores corporativos: definición y significado psicológico. Crece Negocios.',
+      link: 'https://crecenegocios.com/colores-corporativos/',
+    },
+    {
+      referencia:
+        'Diaz, M. (2017, junio 26). Cómo usar estratégicamente el color en la identidad corporativa. Fuego Yámana.',
+      link:
+        'https://www.fuegoyamana.com/usar-el-color-en-la-identidad-corporativa/',
+    },
+    {
+      referencia:
+        'García, M. (2024, octubre 23). Tipos de logos y diferencias: logotipo, isotipo, imagotipo e isologo. Brandemia.',
+      link:
+        'https://brandemia.org/hablemos-con-propiedad-logotipo-isotipo-imagotipo-isologo-imagen-corporativa-identidad',
+    },
+    {
+      referencia:
+        'Hygraph. (2025, diciembre 3). Qué es el contenido digital y cómo crearlo eficazmente. Hygraph.',
+      link: 'https://hygraph.com/blog/digital-content',
+    },
+    {
+      referencia:
+        'Puente, O. (2024). ¿Qué es la identidad de marca? Oliver Puente.',
+      link: 'https://oliverpuente.com/branding/que-es-la-identidad-de-marca/',
+    },
+    {
+      referencia:
+        'Rodríguez, M. (2023, mayo 10). Maquetación editorial: un elemento clave en la identidad visual. Tectinnova.',
+      link:
+        'https://textinnova.com/maquetacion-editorial-un-elemento-clave-en-la-identidad-visual/',
+    },
+    {
+      referencia:
+        'Símbolo. (s. f.). Diseño de marca: creamos conceptos ganadores y que venden. Símbolo Agencia Digital.',
+      link: 'https://www.simbolointeractivo.com/diseno-de-marca/',
     },
   ],
   creditos: [
