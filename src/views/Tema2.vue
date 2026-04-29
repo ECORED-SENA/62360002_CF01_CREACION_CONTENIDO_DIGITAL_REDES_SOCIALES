@@ -9,7 +9,7 @@
     p.mb-5 Con el fin de profundizar en el concepto de identidad visual de la marca y comprender su importancia en la comunicación digital, se invita a reproducir el siguiente video. En él se explica cómo los elementos gráficos y visuales permiten representar a una organización, fortalecer su reconocimiento y transmitir sus valores en entornos digitales.
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/SkvZG0qcH0g?si=n0fRq-7_zdcrqBD6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption.fit___figcaption-video(data-aos="zoom-in") #[b Video]. Identidad visual de la marca
     p.mb-5 En el siguiente apartado se aborda el concepto de identidad visual, su importancia, los elementos que la componen, su funcionamiento en la comunicación digital y los criterios para la selección de sus elementos.
     .caja-tema1-2.mb-5(data-aos="fade-right")
