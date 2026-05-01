@@ -35,22 +35,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Precio.',
+              texto: 'Precio',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Logotipo.',
+              texto: 'Logotipo',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Promoción.',
+              texto: 'Promoción',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Ubicación.',
+              texto: 'Ubicación',
               esCorrecta: false,
             },
           ],
@@ -66,22 +66,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Tipografía.',
+              texto: 'Tipografía',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Imagen.',
+              texto: 'Imagen',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Color.',
+              texto: 'Color',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Producto.',
+              texto: 'Producto',
               esCorrecta: false,
             },
           ],
@@ -96,22 +96,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Reducir costos.',
+              texto: 'Reducir costos',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Cambiar el producto.',
+              texto: 'Cambiar el producto',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Aumentar ventas directamente.',
+              texto: 'Aumentar ventas directamente',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Transmitir emociones y sensaciones.',
+              texto: 'Transmitir emociones y sensaciones',
               esCorrecta: true,
             },
           ],
@@ -127,22 +127,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Precio.',
+              texto: 'Precio',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Estilo visual.',
+              texto: 'Estilo visual',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Promoción.',
+              texto: 'Promoción',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Producto.',
+              texto: 'Producto',
               esCorrecta: false,
             },
           ],
@@ -157,22 +157,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Cliente.',
+              texto: 'Cliente',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Colores corporativos.',
+              texto: 'Colores corporativos',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Precio.',
+              texto: 'Precio',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Ubicación.',
+              texto: 'Ubicación',
               esCorrecta: false,
             },
           ],
@@ -188,22 +188,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Slogan.',
+              texto: 'Slogan',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Precio.',
+              texto: 'Precio',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Logotipo.',
+              texto: 'Logotipo',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Cliente.',
+              texto: 'Cliente',
               esCorrecta: false,
             },
           ],
@@ -218,22 +218,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Producto.',
+              texto: 'Producto',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Estilo visual.',
+              texto: 'Estilo visual',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Precio.',
+              texto: 'Precio',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Promoción.',
+              texto: 'Promoción',
               esCorrecta: false,
             },
           ],
@@ -248,22 +248,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Reduce costos.',
+              texto: 'Reduce costos',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Cambia el producto.',
+              texto: 'Cambia el producto',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Permite diferenciarse de otras marcas.',
+              texto: 'Permite diferenciarse de otras marcas',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Aumenta precios.',
+              texto: 'Aumenta precios',
               esCorrecta: false,
             },
           ],
@@ -279,22 +279,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Generar reconocimiento.',
+              texto: 'Generar reconocimiento',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Decorar.',
+              texto: 'Decorar',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Reducir ventas.',
+              texto: 'Reducir ventas',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Cambiar el producto.',
+              texto: 'Cambiar el producto',
               esCorrecta: false,
             },
           ],
@@ -310,22 +310,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Mejora su imagen.',
+              texto: 'Mejora su imagen',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Aumenta ventas.',
+              texto: 'Aumenta ventas',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Reduce costos.',
+              texto: 'Reduce costos',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Genera confusión.',
+              texto: 'Genera confusión',
               esCorrecta: true,
             },
           ],
@@ -341,22 +341,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Tipografía.',
+              texto: 'Tipografía',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Precio.',
+              texto: 'Precio',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Ubicación.',
+              texto: 'Ubicación',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Producto.',
+              texto: 'Producto',
               esCorrecta: false,
             },
           ],
@@ -372,22 +372,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Precio.',
+              texto: 'Precio',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Colores.',
+              texto: 'Colores',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Cliente.',
+              texto: 'Cliente',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Ubicación.',
+              texto: 'Ubicación',
               esCorrecta: false,
             },
           ],
@@ -402,22 +402,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Vender productos.',
+              texto: 'Vender productos',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Reducir costos.',
+              texto: 'Reducir costos',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Representar la marca.',
+              texto: 'Representar la marca',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Aumentar clientes.',
+              texto: 'Aumentar clientes',
               esCorrecta: false,
             },
           ],
@@ -433,22 +433,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Tipografía.',
+              texto: 'Tipografía',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Cliente.',
+              texto: 'Cliente',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Precio.',
+              texto: 'Precio',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Ubicación.',
+              texto: 'Ubicación',
               esCorrecta: false,
             },
           ],
@@ -464,22 +464,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Identidad visual.',
+              texto: 'Identidad visual',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Promoción.',
+              texto: 'Promoción',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Precio.',
+              texto: 'Precio',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Producto.',
+              texto: 'Producto',
               esCorrecta: false,
             },
           ],
@@ -494,22 +494,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Precio.',
+              texto: 'Precio',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Ubicación.',
+              texto: 'Ubicación',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Imagen.',
+              texto: 'Imagen',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Cliente.',
+              texto: 'Cliente',
               esCorrecta: false,
             },
           ],
@@ -524,22 +524,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Mejora su rendimiento.',
+              texto: 'Mejora su rendimiento',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Reduce ventas.',
+              texto: 'Reduce ventas',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Cambia producto.',
+              texto: 'Cambia producto',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Genera confusión.',
+              texto: 'Genera confusión',
               esCorrecta: false,
             },
           ],
@@ -555,22 +555,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Precio.',
+              texto: 'Precio',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Diseño visual.',
+              texto: 'Diseño visual',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Cliente.',
+              texto: 'Cliente',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Producto.',
+              texto: 'Producto',
               esCorrecta: false,
             },
           ],
@@ -585,22 +585,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Colores.',
+              texto: 'Colores',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Precio.',
+              texto: 'Precio',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Producto.',
+              texto: 'Producto',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Ubicación.',
+              texto: 'Ubicación',
               esCorrecta: false,
             },
           ],
@@ -615,22 +615,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Cliente.',
+              texto: 'Cliente',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Promoción.',
+              texto: 'Promoción',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Estilo visual.',
+              texto: 'Estilo visual',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Precio.',
+              texto: 'Precio',
               esCorrecta: false,
             },
           ],
