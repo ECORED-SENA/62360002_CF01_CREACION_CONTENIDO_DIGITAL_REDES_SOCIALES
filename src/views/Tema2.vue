@@ -62,7 +62,7 @@
                   .col-8
                     img(src='@/assets/curso/temas/img56.svg' style="max-width: 90px").m-auto
                 h4.mb-3.estilo-text Recordación
-                p.mb-0.text-center La repetición de elementos visuales fortalece la memoria y asociación con la marca. 
+                p.mb-0.text-center La repetición de elementos visuales fortalece la memoria y la asociación con la marca. 
               .tarjeta.color-acento-botones.p-4
                 .row.justify-content-center.mb-3
                   .col-8

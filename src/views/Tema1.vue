@@ -192,13 +192,13 @@
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/temas/img26.svg' style="max-width: 90px").m-auto
+                img(src='@/assets/curso/temas/img27.svg' style="max-width: 90px").m-auto
             h4.mb-3.estilo-text Tipografía
             p.mb-0.text-center Define el estilo visual de la comunicación escrita.
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/temas/img26.svg' style="max-width: 90px").m-auto
+                img(src='@/assets/curso/temas/img28.svg' style="max-width: 90px").m-auto
             h4.mb-3.estilo-text Estilo visual
             p.mb-0.text-center Establece la forma en que se presentan las imágenes y los elementos gráficos.
     Separador
