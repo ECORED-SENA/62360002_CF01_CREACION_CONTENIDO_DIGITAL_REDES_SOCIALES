@@ -275,7 +275,7 @@
           img(src="@/assets/curso/temas/img29.svg" style="max-width: 60px").m-auto
       .col
         h3 Tipos de diseños gráficos
-    p.mb-5 Existen diferentes tipos de diseños gráficos que se utilizan en la comunicación visual de las marca. Los más utilizados son:
+    p.mb-5 Existen diferentes tipos de diseños gráficos que se utilizan en la comunicación visual de las marcas. Los más utilizados son:
     .bg-slider.mb-5
       .px-5
         .ajuste-slider(data-aos="zoom-in")
