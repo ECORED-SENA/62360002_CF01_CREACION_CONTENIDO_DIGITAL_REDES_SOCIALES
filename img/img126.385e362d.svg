@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="107.999" height="108" viewBox="0 0 107.999 108">
+  <defs>
+    <filter id="Rectangle_411831" x="0" y="0" width="107.999" height="108" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_425301" data-name="Rectangle 425301" width="54" height="62" transform="translate(-6744 -6575)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1205441" data-name="Group 1205441" transform="translate(6770.96 6595.266)">
+    <g id="Group_1205301" data-name="Group 1205301" transform="translate(-7562.742 -8551.266)">
+      <g id="Group_1203409" data-name="Group 1203409" transform="translate(800.781 1962)">
+        <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Rectangle_411831)">
+          <g id="Rectangle_411831-2" data-name="Rectangle 411831" transform="translate(9 6)" fill="#8fe8d5" stroke="#fff" stroke-width="2">
+            <path d="M5,0H58A32,32,0,0,1,90,32V85a5,5,0,0,1-5,5H32A32,32,0,0,1,0,58V5A5,5,0,0,1,5,0Z" stroke="none"/>
+            <path d="M5,1H58A31,31,0,0,1,89,32V85a4,4,0,0,1-4,4H32A31,31,0,0,1,1,58V5A4,4,0,0,1,5,1Z" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <path id="Path_1260076" data-name="Path 1260076" d="M15.052.687H.856V6.415H10.991L.856,16.481l4.1,4.068,10.1-10.031V20.549h5.8V.687Z" transform="translate(799.924 2031.451)" fill="#1f1321" fill-rule="evenodd"/>
+      <path id="Path_1260092" data-name="Path 1260092" d="M5.27,15.8h10.8V11.438H8.359l7.709-7.657L12.953.687,5.27,8.318V.687H.856V15.8Z" transform="translate(874.712 1961.314)" fill="#1f1321" fill-rule="evenodd"/>
+    </g>
+    <g id="Mask_Group_1107906" data-name="Mask Group 1107906" clip-path="url(#clip-path)">
+      <g id="pantone" transform="translate(-6744 -6571)">
+        <rect id="Rectangle_425305" data-name="Rectangle 425305" width="11.038" height="10.407" transform="translate(0.775 42.046)" fill="#f5f7fa"/>
+        <path id="Path_1270771" data-name="Path 1270771" d="M12.727,53.1,12.8,41.146l40.221.254-.076,11.954Z" fill="#5d9cec"/>
+        <path id="Path_1270772" data-name="Path 1270772" d="M14.3,50.849,9.754,39.791,46.96,24.512,51.5,35.569Z" fill="#48cfad"/>
+        <path id="Path_1270773" data-name="Path 1270773" d="M15.192,47.25,6.752,38.783,35.243,10.392l8.438,8.469Z" fill="#a0d468"/>
+        <path id="Path_1270774" data-name="Path 1270774" d="M15.019,43.737,3.85,39.482,18.169,1.9l11.17,4.257Z" fill="#ffce54"/>
+        <rect id="Rectangle_425306" data-name="Rectangle 425306" width="11.953" height="40.219" transform="translate(0.775 1.124)" fill="#ed5564"/>
+        <path id="Path_1270775" data-name="Path 1270775" d="M6.75,46.124A1.125,1.125,0,1,0,7.876,47.25,1.125,1.125,0,0,0,6.75,46.124Z"/>
+        <path id="Path_1270776" data-name="Path 1270776" d="M52.876,40.5H40.787l11.162-4.622a1.126,1.126,0,0,0,.608-1.47L48.25,24.014a1.123,1.123,0,0,0-1.468-.61L35.329,28.148l8.822-8.822a1.126,1.126,0,0,0,0-1.59L36.194,9.782a1.124,1.124,0,0,0-1.59,0l-8.583,8.581L30.637,7.218a1.122,1.122,0,0,0-.608-1.468L19.635,1.444a1.125,1.125,0,0,0-1.47.61L13.5,13.315V1.124A1.124,1.124,0,0,0,12.376,0H1.126A1.126,1.126,0,0,0,0,1.124V52.876H0A1.126,1.126,0,0,0,1.126,54H52.876A1.125,1.125,0,0,0,54,52.874V41.624A1.124,1.124,0,0,0,52.876,40.5ZM46.6,25.914l3.444,8.314L14.542,48.936,31.171,32.306ZM35.4,12.168l6.363,6.364-26.99,26.99,9-21.727ZM19.813,3.953,28.129,7.4,13.5,42.713V19.2Zm-8.563-1.7V40.5h-9V2.251Zm-9,49.5v-9h9v9Zm49.5,0H13.627l21.728-9h16.4Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
